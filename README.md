@@ -1,2 +1,1 @@
-# Spot-it-
-Utilizes projective geometry to generate a card deck for a Spot It! game versus the computer.
+This code should be run at https://py3.codeskulptor.org/
